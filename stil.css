@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/*CSS Document*/
+p {
+  color: black;
+  background-color: rgba(50,50,50,0.7);
+  width: 500px;
+  padding: 35px;
+}
+body {
+  background-image: url("slike/sunce.jpg");
+}
+h1, h2, h3, h4 {
+  color: black;
+}
+ul, ol {
+  color: black;
+  padding: 30px;
+  background-color: rgba(190, 200, 230, 0.5);
+  width: 150px;
+}
+a {
+  color: white;
+}
